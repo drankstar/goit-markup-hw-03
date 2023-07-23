@@ -201,8 +201,10 @@ img {
   letter-spacing: 0.04em;
   background: var(--iris);
 }
-.advantages-list {
+.advantages {
   padding: 120px 0;
+}
+.advantages-list {
   display: flex;
   gap: 24px;
 }
