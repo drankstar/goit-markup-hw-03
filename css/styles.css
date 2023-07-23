@@ -64,11 +64,14 @@ img {
   padding-top: 24px;
   padding-bottom: 24px;
 }
+
 .header-list {
-  padding: 24px 0;
   display: flex;
   margin-left: auto;
   gap: 40px;
+}
+.header-item {
+  padding: 24px 0;
 }
 .header-navigation {
   margin-right: auto;
