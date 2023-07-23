@@ -286,7 +286,7 @@ img {
   background-color: var(--white);
 }
 .team-text {
-  text-align: ;
+  text-align: center;
   color: var(--slate);
   background-color: var(--white);
   font-size: 16px;
@@ -381,6 +381,7 @@ img {
   overflow: hidden;
 }
 .main-img-title {
+  margin-bottom: 8px;
   margin-top: 32px;
   color: var(--navyblue);
   font-size: 20px;
@@ -389,7 +390,6 @@ img {
   letter-spacing: 0.02em;
 }
 .main-img-text {
-  margin-top: 8px;
   margin-bottom: 32px;
   color: var(--slate);
   font-size: 16px;
