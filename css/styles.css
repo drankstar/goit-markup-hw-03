@@ -296,7 +296,6 @@ img {
 .footer {
   padding: 100px 0;
   display: flex;
-  padding-top: 102px;
   background-color: var(--navyblue);
 }
 
