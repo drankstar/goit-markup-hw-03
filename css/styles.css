@@ -71,9 +71,9 @@ img {
   gap: 40px;
 }
 .header-item {
-  padding: 24px 0;
 }
 .header-navigation {
+  padding: 24px 0;
   margin-right: auto;
   align-items: center;
   display: flex;
