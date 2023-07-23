@@ -250,13 +250,15 @@ img {
 }
 
 .team {
+  padding: 120px 0;
   background-color: var(--cloud);
 }
 .team-item {
+  width: calc((100% - 72px) / 4);
   background-color: var(--white);
 }
 .team-titel {
-  padding-top: 120px;
+  margin-bottom: 72px;
   color: var(--navyblue);
   text-align: center;
   font-size: 36px;
