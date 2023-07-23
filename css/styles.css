@@ -64,7 +64,8 @@ img {
   padding-bottom: 24px;
 }
 .header-list {
-  border: 1px solid var(--cornflower);
+  padding: 24px 0 24px;
+  border-bottom: 1px solid var(--cornflower);
   display: flex;
   margin-left: auto;
   gap: 40px;
@@ -120,7 +121,6 @@ img {
   font-style: normal;
 }
 .address-list {
-  padding: 24px 0 24px;
   display: flex;
   gap: 40px;
 }
