@@ -64,8 +64,8 @@ img {
   padding-bottom: 24px;
 }
 .header-list {
-  padding: 24px 0 24px;
-  border-bottom: 1px solid var(--cornflower);
+  padding: 24px 0;
+  border-bottom: 1px solid #e7e9fc;
   display: flex;
   margin-left: auto;
   gap: 40px;
@@ -184,7 +184,7 @@ img {
 }
 .hero-but {
   padding: 16px 32px;
-  max-width: 169px;
+  min-width: 169px;
   height: 56px;
   border: none;
   cursor: pointer;
@@ -202,6 +202,7 @@ img {
   background: var(--iris);
 }
 .advantages-list {
+  padding: 120px 0;
   display: flex;
   gap: 24px;
 }
@@ -209,7 +210,7 @@ img {
   width: 264px;
 }
 .advantages-subtitle {
-  padding-top: 120px;
+  margin-bottom: 8px;
   color: var(--navyblue);
   font-size: 20px;
   font-weight: 500;
@@ -217,7 +218,6 @@ img {
   letter-spacing: 0.02em;
 }
 .advantages-text {
-  padding-top: 8px;
   color: var(--slate);
   font-size: 16px;
   line-height: 1.5;
