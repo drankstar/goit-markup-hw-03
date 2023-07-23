@@ -64,6 +64,7 @@ img {
   padding-bottom: 24px;
 }
 .header-list {
+  border: 1px solid var(--cornflower);
   display: flex;
   margin-left: auto;
   gap: 40px;
@@ -80,6 +81,7 @@ img {
   gap: 40px;
 }
 .header-logo {
+  margin-right: 76px;
   color: var(--iris);
   font-family: "Raleway", sans-serif;
   font-size: 18px;
@@ -90,6 +92,7 @@ img {
   text-transform: uppercase;
 }
 .header-logo-studio {
+  margin-right: 76px;
   color: var(--navyblue);
   font-family: "Raleway", sans-serif;
   font-size: 18px;
@@ -117,6 +120,7 @@ img {
   font-style: normal;
 }
 .address-list {
+  padding: 24px 0 24px;
   display: flex;
   gap: 40px;
 }
