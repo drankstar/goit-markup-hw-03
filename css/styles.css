@@ -225,7 +225,7 @@ img {
 }
 
 .main-titel {
-  padding-top: 120px;
+  margin-bottom: 72px;
   color: var(--navyblue);
   text-align: center;
   font-size: 36px;
@@ -233,9 +233,13 @@ img {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-.main-list {
-  padding-top: 72px;
+.main {
   padding-bottom: 120px;
+}
+.main-titel {
+  margin-bottom: 72px;
+}
+.main-list {
   display: flex;
   gap: 24px;
 }
