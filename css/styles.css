@@ -20,6 +20,9 @@ ol {
   margin-top: 0;
   margin-bottom: 0;
 }
+img {
+  display: block;
+}
 :root {
   --primery-font: "Roboto", sans-serif;
   --iris: #4d5ae5;
